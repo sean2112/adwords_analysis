@@ -37,7 +37,7 @@ Excel → Python → MySQL → Power BI
 
 https://github.com/AdityakumarDA/Adword-Data-Analysis
 
-本仓库仅用于个人学习与技术实践展示，不用于商业用途。
+本仓库仅用于个人学习与技术实践展示。
 
 ---
 
